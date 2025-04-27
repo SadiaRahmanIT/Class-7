@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.main{
+    background-color: rgb(232, 245, 224);height:1000px;
+}
+.banner{
+    background-image: url(../images/wmremove-transformed\ \(1\).jpeg);
+    background-size: cover;
+    height: 600px;
+    background-position: center 55%;
+}
+.content{
+    text-align: center;
+    position: center;
+    
+}
+h2{
+    background-color: rgb(174, 241, 174);
+  
+    display:block;
+    padding: 30px;
+    margin: 30px;
+    justify-content:center;
+    color: rgb(23, 6, 100);
+}
+h1{
+    color: darkblue;
+}
+  
